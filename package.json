@@ -1,0 +1,29 @@
+{
+  "name": "noname",
+  "version": "1.0.0",
+  "description": "snap-electron-reader",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciiiii/snap-electron-reader.git"
+  },
+  "keywords": [
+    "snap",
+    "electron",
+    "reader"
+  ],
+  "author": "ciii",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.12",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ciiiii/snap-electron-reader/issues"
+  },
+  "homepage": "https://github.com/ciiiii/snap-electron-reader#readme"
+}
